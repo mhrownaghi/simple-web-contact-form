@@ -5,8 +5,3 @@ Find the project requirements here: [Simple web contact form](https://www.codeme
 
 ## Tech/framework used
 Built with html, css and php. I used mysql DBMS and Quilljs library.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
-
